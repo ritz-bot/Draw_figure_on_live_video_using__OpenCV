@@ -1,2 +1,1 @@
-# Draw_figure_on_live_video_using__OpenCV
-Basically, a figure is created on the live video using webcam.
+Basically, this project uses the essence of computer using in which the basic commands are used in order to initiate the learning process for Open computer vision. Here, a rectangle is drawn on the live motion video which is being recorded using the computer's default camera(here webcam) and the entire logic is written above.
